@@ -268,13 +268,13 @@
   dependencies:
     "@mantine/utils" "5.2.6"
 
-"@mantine/next@5.4.0":
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/@mantine/next/-/next-5.4.0.tgz#4ca619e90b8ef8dc0617f24f60b360a1e0b29430"
-  integrity sha512-DN5ShE/F0meDokI8ANYPZjRh7S0DPgmPnppDXhbPf2FYj7+BCE/xOJdgMJ66qbkt66UqASyA9hk8WSSiEJ7bqw==
+"@mantine/next@5.5.5":
+  version "5.5.5"
+  resolved "https://registry.yarnpkg.com/@mantine/next/-/next-5.5.5.tgz#ebc1b1fbd14682f3d75338be70d63b886031e91e"
+  integrity sha512-hxsIv/Q2pQdsy/WVvufEz8y3sZN1cTwt+ijk0Y2GVAo4ujmF+u5EZqjrt2lwn8mBl+OIzzQaRfhxMhXrjoJvaw==
   dependencies:
-    "@mantine/ssr" "5.4.0"
-    "@mantine/styles" "5.4.0"
+    "@mantine/ssr" "5.5.5"
+    "@mantine/styles" "5.5.5"
 
 "@mantine/notifications@5.2.6":
   version "5.2.6"
@@ -291,12 +291,12 @@
   dependencies:
     "@mantine/utils" "5.2.6"
 
-"@mantine/ssr@5.4.0":
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/@mantine/ssr/-/ssr-5.4.0.tgz#242b5a6c6bacac14ce8d68d440af76928dc58195"
-  integrity sha512-MvQbgxbwZ1UA1axV+zvrsypT70TxB+7w3MsQCarFMcb8rVbgM1Zae2SNfSsyoJL8r4jyA3FDuI12RD1bTgGF2g==
+"@mantine/ssr@5.5.5":
+  version "5.5.5"
+  resolved "https://registry.yarnpkg.com/@mantine/ssr/-/ssr-5.5.5.tgz#101a2b9bb0949ee1b38082d8da2f8f6c86439ee0"
+  integrity sha512-lDlK6/pD6X3nM/RAX2RNxhov2qgqGxowkPV93HWTwVaS9vSUAd+Sf+CMPeK+9n4yHSrCCTBNpLbiyJJvJyr13A==
   dependencies:
-    "@mantine/styles" "5.4.0"
+    "@mantine/styles" "5.5.5"
     html-react-parser "1.4.12"
 
 "@mantine/styles@5.2.6":
@@ -307,10 +307,10 @@
     clsx "1.1.1"
     csstype "3.0.9"
 
-"@mantine/styles@5.4.0":
-  version "5.4.0"
-  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-5.4.0.tgz#ba7fd2fd4db15906775a1c2eb4175cb98d6fa3c8"
-  integrity sha512-WnCRaqX8D1l4Y7QQD4e/tBKkLgTHbl0BeAOe/U4UDBM916mEboOmR8sa81zCUj4eJQoMlloe0WR1+erYX4JHLQ==
+"@mantine/styles@5.5.5":
+  version "5.5.5"
+  resolved "https://registry.yarnpkg.com/@mantine/styles/-/styles-5.5.5.tgz#1bb49031f68c3c2d54cbd5c3ac62131ced4fa110"
+  integrity sha512-cAYLoqQbnyoJepD7zstFF+A2/rj8DJblBzEdri0V+CWQccpqfP5xOTPEvCHVwQUODg40uT9PyVwFZ4h+zyyzvg==
   dependencies:
     clsx "1.1.1"
     csstype "3.0.9"
